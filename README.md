@@ -21,10 +21,40 @@ Star UML
 ### HARDWARE REQUIRMENTS:
 1. 512MB RAM2. Pentium III Processor
 
+### UMI DIAGRAMS:
+```
+NAME: S.thirisha
+REGISTER NUMBER:212222230160
+```
+
+# USECASE:
+
+<img width="305" alt="image" src="https://github.com/TejaswiniGugananthan/LAB-07-Passport-registration/assets/121222763/19c73fcc-f2ba-48cb-a777-89d870491878">
 
 
+# CLASS:
+
+<img width="437" alt="image" src="https://github.com/TejaswiniGugananthan/LAB-07-Passport-registration/assets/121222763/5ba91115-9e0e-4c1e-8f60-0c0c8d223f17">
 
 
+# SEQUENCE:
+
+<img width="424" alt="image" src="https://github.com/TejaswiniGugananthan/LAB-07-Passport-registration/assets/121222763/875d0a74-29cf-4643-9805-84769fdf8620">
+
+
+# ACTIVITY:
+
+<img width="265" alt="image" src="https://github.com/TejaswiniGugananthan/LAB-07-Passport-registration/assets/121222763/f4c509e4-eeaa-4269-8783-d62db2c7a98e">
+
+
+# COMMUNICATION:
+
+<img width="425" alt="image" src="https://github.com/TejaswiniGugananthan/LAB-07-Passport-registration/assets/121222763/1be50416-4f6f-43ed-9410-bc53d877827b">
+
+
+# PACKAGE:
+
+<img width="373" alt="image" src="https://github.com/TejaswiniGugananthan/LAB-07-Passport-registration/assets/121222763/76d45868-04ef-43c9-a983-ec0ce5a6b387">
 
 
 ### RESULT:
